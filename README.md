@@ -1,10 +1,10 @@
 # Californa housing - Classification Project
 This project is a school assignment focused on predictive modeling using Python's scikit-learn library. The goal is to build a classification model using the California Housing dataset to identify high-value areas for decision support.
 
-## Project Overviervie
-In this assignment, I act as a data analyst at a consulting firm supporting municipalities and real estate stakeholders in making data-driven decisions. The task is to develop a machine learning solution using the California Housing dataset to identify “high-value areas”, regions where housing prices are in the top 20%.
+## Project Overview
+In this assignment, I act as a data analyst at a consulting firm supporting municipalities and real estate stakeholders in making data-driven decisions. The task is to develop a machine learning solution using the California Housing dataset to identify “high-value areas”, areas where housing prices are in the top 20%. In addition, management also want to understand if there are any natural "value-patterns" that can be useful in segmentating areas that are similar, detect deviating areas, and get a quicker overview of the data before making decisions.
 
-The work includes preparing the dataset, performing exploratory data analysis, engineering relevant features, and building reproducible classification pipelines using scikit-learn. Models are evaluated with cross-validation, optimized using GridSearchCV, and compared to select the best-performing solution.
+The work includes preparing the dataset, performing exploratory data analysis, unsipervised leanrning using KMeans, engineering relevant features, and building reproducible classification pipelines for supervised learning using scikit-learn. Models are evaluated with cross-validation, optimized using GridSearchCV, and compared to select the best-performing solution.
 
 The final deliverables are a runnable Jupyter Notebook containing the full analysis and a concise report summarizing methodology, results, recommendations, and potential risks. The goal is not to predict exact housing values but to provide a reliable tool for flagging likely high-value areas based on available area-level characteristics, such as income, household structure, geography, and proximity to the ocean.
 
