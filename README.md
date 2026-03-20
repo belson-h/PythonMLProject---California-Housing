@@ -11,7 +11,7 @@ The final deliverables are a runnable Jupyter Notebook containing the full analy
 ## Project structure
 - `housing.csv` - dataset containing historical housing data
 - `housing_report.ipynb` - Jupyter Notebook with all code, figures, and results
-- `report_summary.pdf` - concise report summarizing goal, methods, results, recommendations, and risks
+- `Rapport California Housing - Klassificeringsanalys.pdf` - report summarizing goal, EDA, methods, results, recommendations, and risks (in Swedish)
 
 ## Python version
 - Python 3.13.7 (recommended)
