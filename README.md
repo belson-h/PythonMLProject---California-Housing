@@ -15,7 +15,7 @@ The final deliverables are a runnable Jupyter Notebook containing the full analy
 
 ## Python version
 - Python 3.13.7 (recommended)
-- Important libraries: `numpy`, `pandas`, `matplotlib`, `scipy`, `sklearn`
+- Important libraries: `numpy`, `pandas`, `matplotlib`, `seaborn`, `sklearn`
 
 ## How to run the project
 1. Clone repository: 
